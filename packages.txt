@@ -1,0 +1,8 @@
+libcairo2
+libcairo2-dev
+libpango1.0-0
+libpango1.0-dev
+pkg-config
+ffmpeg
+texlive
+texlive-latex-extra
